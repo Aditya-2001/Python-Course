@@ -1,5 +1,6 @@
 def funct(x):
-    print(set(x))
+    print(list(sorted(set(listt))))
 
-listt=input("Enter elements: ").split(" ")
+
+listt = input("Enter elements: ").split(" ")
 funct(listt)
