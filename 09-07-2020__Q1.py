@@ -4,3 +4,5 @@ def funct(x):
 
 listt = input("Enter elements: ").split(" ")
 funct(listt)
+
+# i added this comment
