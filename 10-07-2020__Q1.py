@@ -1,5 +1,5 @@
 #since it is not important that all those access this code must have same named text file so we will create it and then operate
-file=open("sample_file","a")
+file=open("A","a")
 while True:
     string=input("Enter the text: ")
     file.write(string)
