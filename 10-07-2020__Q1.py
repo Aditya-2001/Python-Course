@@ -1,3 +1,5 @@
+#-Write a Python program to count the number of lines in a text file.
+
 #since it is not important that all those access this code must have same named text file so we will create it and then operate
 file=open("A","a")
 while True:

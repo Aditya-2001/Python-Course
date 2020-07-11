@@ -1,3 +1,7 @@
+#- Calculate the number of upper / lower case letters in a string
+# sample_string = "Hey I AM doing Good IN PROGRamming"
+
+
 # def funct(x):
 #     lower=0
 #     upper=0

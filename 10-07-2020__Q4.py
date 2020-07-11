@@ -1,3 +1,5 @@
+# WAP to program to let the user input thier names, age, rollNo(abt 4 users) and then store the data in dictionary and store the data into a scv file using the CSV module and DictWriter function.
+
 import csv
 with open("file.scv","w") as csv_file:
     field_names=['name','age','roll_number']
